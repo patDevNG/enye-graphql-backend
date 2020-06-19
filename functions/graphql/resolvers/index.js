@@ -4,7 +4,5 @@ module.exports = {
   Query: {
     history: location.history
   },
-  // Mutation: {
-  //   root: location.root
-  // }
+
 };
